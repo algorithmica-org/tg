@@ -21,4 +21,4 @@
 * [Метод сканирующей прямой](https://algorithmica.org/tg/scanline)
 * [Нахождение кратчайших путей](https://algorithmica.org/tg/shortest-paths)
 * [Сортировки](https://algorithmica.org/tg/sorting)
-* [STL](https://algorithmica.org/tg/stl)
+* [C++ STL](https://algorithmica.org/tg/stl)
