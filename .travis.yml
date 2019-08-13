@@ -3,6 +3,6 @@ language:
 
 script:
    - gem install travis
-   - curl -LO https://gist.githubusercontent.com/sslotin/d3dea9fbf47b265c3be2d15b99dd1c17/raw/f1fbf0f8d9bef84e22e1c13edbf1005b47a8c85e/trigger.sh
+   - curl -LO https://gist.githubusercontent.com/sslotin/d3dea9fbf47b265c3be2d15b99dd1c17/raw/6c78a214341bed2e06e08753789b29753d9896aa/trigger.sh
    - chmod +x trigger.sh
    - ./trigger.sh algorithmica-org articles master $GITHUB_TOKEN
