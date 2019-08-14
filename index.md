@@ -1,6 +1,6 @@
 # Tinkoff Generation
 
-Тут ([возможно, временно](https://wiki.algocode.ru)) лежат некоторые конспекты алгоритмического направления Tinkoff Generation (в основном, первого курса).
+Тут ([возможно, временно](https://wiki.algocode.ru)) лежат некоторые конспекты Tinkoff Generation, а именно:
 
 * [Базовые структуры данных](https://algorithmica.org/tg/basic-data-structures)
 * [Поиск в ширину](https://algorithmica.org/tg/bfs)
