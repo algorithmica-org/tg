@@ -13,7 +13,7 @@
 9. [Стек и другие структуры данных](basic-data-structures)
 10. [Поиск в глубину](dfs)
 11. [Поиск в ширину](bfs)
-12. [нахождение кратчайших путей](shortest-paths)
+12. [Нахождение кратчайших путей](shortest-paths)
 13. [Метод двух указателей и mergesort](mergesort)
 14. [Quicksort](quicksort)
 15. [Продвинутый DFS](dfs-plus)
